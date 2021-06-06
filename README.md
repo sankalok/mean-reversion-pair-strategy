@@ -9,4 +9,4 @@ Performed Analysis and Strategies for Application of the various strategies for 
 <br/>4. **Bank of China (BOC)** [3988.HK]
 <br/>5. **
 <br/>
-<br/> Check out the Jupyter Notebook for more extensive analysis of the same!
+<br/> Check out the Jupyter Notebook for more extensive analysis of the same.
