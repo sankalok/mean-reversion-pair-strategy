@@ -1,7 +1,7 @@
 # Stock Analysis and Implementation of various strategies on the Stocks based on Historical Data
 ## Sankalok Sen (Computer Science, The University of Hong Kong)
 
-Performed Analysis and Strategies for Application of the various strategies for the largest banks in China:
+Performed Analysis and Implementations of various Strategies for Application for some of the largest banks in China listed on the **Hong Kong Stock Exchange (HKEX)**:
 <br/>
 <br/>1. **Industrial and Commercial Bank of China (ICBC)**  [1398.HK]
 <br/>2. **China Construction Bank (CCB)** [0939.HK]
